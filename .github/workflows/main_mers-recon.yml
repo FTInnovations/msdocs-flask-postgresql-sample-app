@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MERS-RECON'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD97885B27BE4954811A6F8E0EE369E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9130284B3B344F4A2CF74CEDCB4D13E }}
